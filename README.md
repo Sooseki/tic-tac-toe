@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Pour lancer le projet
+## Pour lancer le projet el local
 
 npm i
 npm start
